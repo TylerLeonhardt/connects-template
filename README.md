@@ -2,7 +2,7 @@
 
 > NOTE: This is a template repo that can be easily forked
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://vscode.dev/TylerLeonhardt/connects-template)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://vscode.dev/github/TylerLeonhardt/connects-template)
 > NOTE: Don't forget to change the URL of the badge to point to your repo!
 
 This repo contains my Connects from over the years.
