@@ -18,9 +18,7 @@ _Emphasize 2-3 things that “YOU” individually could have done differently. U
 
 ## Going forward
 
-_Consider your overall potential impact to the business through: Your key individual accomplishments that will contribute to team, business or customer results, your results that will build on the work, ideas or effort of others and your contributions that will support the success of others._
-
-<!-- INSERT YOUR ANSWER HERE -->
+Consider your overall potential impact to the business through: Your key individual accomplishments that will contribute to team, business or customer results, your results that will build on the work, ideas or effort of others and your contributions that will support the success of others.
 
 ### What are your key deliverables and the expected business impact for the upcoming period?
 
