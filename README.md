@@ -1,6 +1,6 @@
 # My Connects
 
-> NOTE: This is a template repo that can be easily forked
+> NOTE: This is a template repo that can be easily forked. Remember to fork it to a PRIVATE repo :) we don't need to see what you're up to.
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://vscode.dev/github/TylerLeonhardt/connects-template)
 > NOTE: Don't forget to change the URL of the badge to point to your repo!
