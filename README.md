@@ -13,4 +13,8 @@ In the `connects` folder, there is a `TEMPLATE-Connect-YYYY-MM.md` file which, o
 
 * copy this file to a file with the current month like: `Connect-2021-05.md`
 * Then open that file and replace all of the Markdown comments (`<!-- -->`) with your responses
-* When you need to submit your Connect, just copy the responses into the online form
+
+When you need to submit your Connect, simply:
+
+* Open the Markdown preview (Command Palette: `Markdown: Open Preview to Side`)
+* copy the responses into the online form
